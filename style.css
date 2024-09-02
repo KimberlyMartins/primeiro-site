@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    color: #130f0f;
+    padding: 0.5rem;
+    background-color: #3979a356;
+}
+
+h1{
+    margin-bottom: 5%;
+}
+h1,
+h2 {
+    background-color: rgb(12, 140, 214);
+    padding: 0px;
+    color: #ffff;
+    border-radius: 5px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+img{
+    border-radius: 15px;
+}
+
+iframe{
+    border-radius: 10px;
+}
+
+.centralizar {
+    margin-bottom: 15px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+ol,
+ul {
+    line-height: 30px;
+}
+
+.btn-git {
+    background-color: #de06e6;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 32px;
+    display: inline-block;
+    border-radius: 10px;
+    font: size 16px;
+    ;
+    margin-top: 10px;
+}
+
+.btn-git:hover {
+    background-color: #7a0467c4;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+}
